@@ -12,6 +12,8 @@ dependencies:
   - contextily
   - scipy
   - xarray
+  - pydap
+  - netcdf4
 
 
 
