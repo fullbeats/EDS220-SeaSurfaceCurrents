@@ -17,14 +17,15 @@ The Python code is wrapped in a Jupyter notebook for convenient explanations and
 ## How to run?
 The easiest way of running the data in a clean Jupyter Notebook environment using the provided Binder instance. Just click the button below and it starts a new Binder instance for you. In case you want to use your own environment, you are free to do that as well!
 
-_IMPORTANT:_ In order to get the animations right, you must make sure to run the Notebook within a Jupyter*Notebook* instead of a Jupyter*Lab* instance. You can do so by replacing the URL suffix */lab/tree/HW3_rs_crew.ipynbto */notebooks/HW3_rs_crew.ipynb after the Jupyter Instance has loaded completely.
+__IMPORTANT:__ In order to get the animations right, you must make sure to run the Notebook within a Jupyter*Notebook* instead of a Jupyter*Lab* instance. You can do so by replacing the URL suffix */lab/tree/HW3_rs_crew.ipynbto */notebooks/HW3_rs_crew.ipynb after the Jupyter Instance has loaded completely.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fullbeats/EDS220-SeaSurfaceCurrents/HEAD)
 ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
-click the binder icon above to begin. A remote python session will launch in your browser with the tutorial Be patient, sometimes it takes a while for the session to initalize the first few times.
+click the binder icon above to begin. A remote python session will launch in your browser with the tutorial.
+Be patient, sometimes it takes a while for the session to initalize the first few times.
 
-## Troubleshootng
+## Troubleshooting
 Are you getting a weird "Javascript Error: IPython is not defined" error message? That is probably because your notebook is run within a JupyterLab instance instead of a JupyerNotebook instance. See hints in the section above to get rid of this problem!
 
-### Questions?
+## Questions?
 If you have any issues or questions, please feel free to contact any of us via the contact information given in the GitHub profiles.
