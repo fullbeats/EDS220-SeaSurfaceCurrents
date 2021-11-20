@@ -9,6 +9,7 @@ dependencies:
   - matplotlib
   - pandas
   - geopandas
+  - imageio
   - contextily
   - scipy
   - xarray
